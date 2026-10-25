@@ -1,0 +1,21 @@
+{
+  "name": "Bnos Yisroel of Baltimore",
+  "url": "https://bnos-yisroel.github.io/BnosWebsite",
+  "basePath": "/BnosWebsite",
+  "description": "A nurturing Torah environment where each student can grow, learn, and chart her unique path in Avodas Hashem.",
+  "hero": {"eyebrow": "Bnos Yisroel of Baltimore", "title": "Her potential.\nHer unique path.", "text": "A nurturing Torah environment. A love of learning. A lasting commitment to family, community and Klal Yisroel.", "interval": 6000,
+    "slides": [
+      {"src": "/assets/homepage/slide-1.jpg", "alt": "Students learning together at Bnos Yisroel"},
+      {"src": "/assets/homepage/slide-2.jpg", "alt": "Bnos Yisroel students taking part in a classroom activity"},
+      {"src": "/assets/homepage/slide-3.jpg", "alt": "Bnos Yisroel high school students with their school bags"}
+    ]
+  },
+  "mission": "To educate each individual student in a nurturing Torah environment while instilling in her a love of Yiddishkeit, self-esteem, and a lasting commitment to family, community and Klal Yisroel as she charts her unique path in Avodas Hashem.",
+  "contact": {"address": "6300 Park Heights Ave., Baltimore, MD 21215", "phone": "443-524-3200", "email": "businessoffice@bnosyisroel.org"},
+  "quickLinks": [
+    {"title":"Lunch Menu","href":"/parent-resources/food-service-resources/","detail":"Menus & meal programs"},
+    {"title":"School Calendar","href":"/calendar/","detail":"Plan the days ahead"},
+    {"title":"Supply Lists","href":"/supply-lists/","detail":"Ready for the classroom"},
+    {"title":"Uniforms","href":"/uniform/","detail":"Guidelines & gemach"}
+  ]
+}

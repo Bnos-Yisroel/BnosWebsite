@@ -1,0 +1,6 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {eligibleNews,validateArticle} from '../scripts/content.mjs';
+const article=(slug,date,status='published')=>({title:slug,slug,date,status,body:'<p>Test article</p>'});
+test('news excludes old, future, draft; orders latest first',()=>assert.deepEqual(eligibleNews([article('old','2024-12-31'),article('cutoff','2025-01-01'),article('recent','2026-10-20'),article('draft','2026-10-21','draft'),article('future','2026-10-25')],'2026-10-24').map(a=>a.slug),['recent','cutoff']));
+test('empty news stays empty',()=>assert.deepEqual(eligibleNews([],'2026-10-24'),[]));
+test('reject invalid dates, executable HTML, unsafe slugs, missing alt',()=>{for(const patch of [{date:'2026-02-30'},{body:'<img onerror="alert(1)">'},{slug:'../bad'},{image:'/assets/photo.jpg'}])assert.throws(()=>validateArticle({...article('valid','2026-10-24'),...patch}));});
+test('formatted media article is supported',()=>assert.doesNotThrow(()=>validateArticle({...article('valid','2026-10-24'),body:'<h2>School event</h2><p><a href="/assets/documents/example.pdf">Download</a></p><iframe title="School video" src="https://www.youtube-nocookie.com/embed/VIDEO_ID" loading="lazy" allowfullscreen></iframe>'})));

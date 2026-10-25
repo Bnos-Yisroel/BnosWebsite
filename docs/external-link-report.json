@@ -1,0 +1,105 @@
+{
+  "checked_at": "2026-10-25T00:00:06.064201+00:00",
+  "method": "GET only; no submissions, login, or payments",
+  "links": [
+    {
+      "url": "https://bny.parentlocker.com/",
+      "status": 200,
+      "destination": "https://bny.parentlocker.com/",
+      "result": "reachable; workflow not verified"
+    },
+    {
+      "url": "https://bny.parentlocker.com/2026-2027Newstudentapplication-form/",
+      "result": "needs manual review",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://bny.parentlocker.com/2027-2028Newstudentapplication-form/",
+      "status": 200,
+      "destination": "https://bny.parentlocker.com/2027-2028Newstudentapplication-form/",
+      "result": "reachable; workflow not verified"
+    },
+    {
+      "url": "https://bny.parentlocker.com/app/s/bny/lunch",
+      "status": 200,
+      "destination": "https://bny.parentlocker.com/login.php?r=%2Fapp%2Fs%2Fbny%2Flunch",
+      "result": "reachable; workflow not verified"
+    },
+    {
+      "url": "https://bny.parentlocker.com/calendar.php?embed=3929k39fk39fk3f93fk",
+      "status": 200,
+      "destination": "https://bny.parentlocker.com/calendar.php?embed=3929k39fk39fk3f93fk",
+      "result": "reachable; workflow not verified"
+    },
+    {
+      "url": "https://calendar.google.com/calendar/b/1?cid=Ym5vc3lpc3JvZWwub3JnX2Fmb3Mxbmp0ZDBhZW1qNzQ3NXBxamVtamJrQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20",
+      "status": 200,
+      "destination": "https://accounts.google.com/v3/signin/identifier?continue=https://calendar.google.com/calendar/u/1/r?cid%3DYm5vc3lpc3JvZWwub3JnX2Fmb3Mxbmp0ZDBhZW1qNzQ3NXBxamVtamJrQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&emr=1&followup=https://calendar.google.com/calendar/u/1/r?cid%3DYm5vc3lpc3JvZWwub3JnX2Fmb3Mxbmp0ZDBhZW1qNzQ3NXBxamVtamJrQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&osid=1&passive=1209600&service=cl&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S2132081405:1792886403821631",
+      "result": "reachable; workflow not verified"
+    },
+    {
+      "url": "https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23FFFFFF&src=bnosyisroel.org_q194je5lvs8t4t7tubnnjqitlg%40group.calendar.google.com&color=%23125A12&ctz=America%2FNew_York",
+      "status": 200,
+      "destination": "https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23FFFFFF&src=bnosyisroel.org_q194je5lvs8t4t7tubnnjqitlg%40group.calendar.google.com&color=%23125A12&ctz=America%2FNew_York",
+      "result": "reachable; workflow not verified"
+    },
+    {
+      "url": "https://calendar.google.com/calendar/embed?src=bnosyisroel.org_afos1njtd0aemj7475pqjemjbk%40group.calendar.google.com&ctz=America%2FNew_York",
+      "status": 200,
+      "destination": "https://calendar.google.com/calendar/embed?src=bnosyisroel.org_afos1njtd0aemj7475pqjemjbk%40group.calendar.google.com&ctz=America%2FNew_York",
+      "result": "reachable; workflow not verified"
+    },
+    {
+      "url": "https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3TWEMik-9uTa7-LcWgHTDcTRnSW_c0ahNArxuf59X6PYKMNyytCVShP-JTq68RCUtQMtz3y-n2",
+      "status": 200,
+      "destination": "https://calendar.google.com/calendar/appointments/schedules/AcZssZ3TWEMik-9uTa7-LcWgHTDcTRnSW_c0ahNArxuf59X6PYKMNyytCVShP-JTq68RCUtQMtz3y-n2",
+      "result": "reachable; workflow not verified"
+    },
+    {
+      "url": "https://docs.google.com/forms/d/1DECpRHS53lEbqQa8gOH7VjlcUDvPz_ateL_3P2SRGN8/viewform?edit_requested=true",
+      "status": 200,
+      "destination": "https://docs.google.com/forms/d/1DECpRHS53lEbqQa8gOH7VjlcUDvPz_ateL_3P2SRGN8/viewform?edit_requested=true",
+      "result": "reachable; workflow not verified"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1nBRf33ofnefM8wZyjE67W6US6up7NyAi/view?usp=sharing",
+      "status": 200,
+      "destination": "https://drive.google.com/file/d/1nBRf33ofnefM8wZyjE67W6US6up7NyAi/view?usp=sharing",
+      "result": "reachable; workflow not verified"
+    },
+    {
+      "url": "https://forms.gle/vbMWZwFYg2NjsEhh8",
+      "status": 200,
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLSc9iy7cOlYNe67mIG-9hntq8HP_pzySUMKD58tOSkAxbTPxQw/viewform?usp=send_form",
+      "result": "reachable; workflow not verified"
+    },
+    {
+      "url": "https://www.google.com/maps/search/1400+Independence+Avenue,+SW?entry=gmail&source=g",
+      "status": 200,
+      "destination": "https://www.google.com/maps/search/1400+Independence+Avenue,+SW?entry=gmail&source=g",
+      "result": "reachable; workflow not verified"
+    },
+    {
+      "url": "https://www.google.com/maps/search/200+West+Baltimore+Street,+Baltimore,+MD+21201-2595?entry=gmail&source=g",
+      "status": 200,
+      "destination": "https://www.google.com/maps/search/200+West+Baltimore+Street,+Baltimore,+MD+21201-2595?entry=gmail&source=g",
+      "result": "reachable; workflow not verified"
+    },
+    {
+      "url": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SCM9ZUJ2SU38L",
+      "result": "needs manual review",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.paypal.com/donate?hosted_button_id=7G94VK49AM5DW",
+      "status": 200,
+      "destination": "https://www.paypal.com/donate?hosted_button_id=7G94VK49AM5DW",
+      "result": "reachable; workflow not verified"
+    },
+    {
+      "url": "https://www.usda.gov/sites/default/files/documents/ad-3027.pdf",
+      "result": "needs manual review",
+      "error": "HTTP Error 403: Forbidden"
+    }
+  ]
+}

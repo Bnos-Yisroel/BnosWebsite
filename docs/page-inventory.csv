@@ -1,0 +1,37 @@
+source,destination,decision,source_date
+https://bnosyisroel.org/tech-privacy-policy/,/tech-privacy-policy/,migrate evergreen/current content; omit outdated attachments,2026-10-08T10:59:06
+https://bnosyisroel.org/birthday-book-club/,/birthday-book-club/,retain explanation; route inquiries to office pending workflow approval,2026-09-17T12:37:36
+https://bnosyisroel.org/parent-resources/food-service-resources/sfsp/,/sfsp/,retain as explicitly dated summer 2026 information; registration closed,2026-08-20T11:40:35
+https://bnosyisroel.org/shidduchinitiative/,/shidduchinitiative/,migrate evergreen/current content; omit outdated attachments,2026-02-04T11:26:29
+https://bnosyisroel.org/parent-resources/school-testing-calendars/,/school-testing-calendars/,migrate evergreen/current content; omit outdated attachments,2023-10-31T15:05:17
+https://bnosyisroel.org/parent-resources/wellness/,/wellness/,migrate evergreen/current content; omit outdated attachments,2024-08-01T09:25:00
+https://bnosyisroel.org/parent-resources/uniform-2/,/uniform/,migrate evergreen/current content; omit outdated attachments,2026-07-09T12:59:24
+https://bnosyisroel.org/parent-resources/supply-lists/,/supply-lists/,migrate evergreen/current content; omit outdated attachments,2026-06-26T16:42:55
+https://bnosyisroel.org/parent-resources/enrollment/,/admissions/,consolidate at admissions; both application years require confirmation,2026-10-15T16:44:08
+https://bnosyisroel.org/parent-resources/food-service-resources/,/parent-resources/food-service-resources/,migrate evergreen/current content; omit outdated attachments,2026-10-21T15:16:29
+https://bnosyisroel.org/middle-school-testing-calendar/,/middle-school-testing-calendar/,migrate evergreen/current content; omit outdated attachments,2024-07-29T14:11:06
+https://bnosyisroel.org/parent-resources/,/parent-resources/,replace with categorized dashboard,2025-08-28T10:47:29
+https://bnosyisroel.org/high-school-testing-calendar/,/high-school-testing-calendar/,migrate evergreen/current content; omit outdated attachments,2021-10-25T14:26:21
+https://bnosyisroel.org/ptby/,/ptby/,retain parent organization and link to birthday book information,2026-02-05T10:23:40
+https://bnosyisroel.org/contact-confirm/,/contact-us/,redirect; WordPress form retired,2016-05-31T17:33:55
+https://bnosyisroel.org/calendar/,/calendar/,migrate evergreen/current content; omit outdated attachments,2026-08-07T12:21:05
+https://bnosyisroel.org/legacy/,/legacy/,migrate evergreen/current content; omit outdated attachments,2023-04-24T09:47:52
+https://bnosyisroel.org/about/,/about/,migrate evergreen/current content; omit outdated attachments,2023-11-09T16:32:07
+https://bnosyisroel.org/alum/,/alum/,migrate evergreen/current content; omit outdated attachments,2026-06-25T14:17:56
+https://bnosyisroel.org/,/,replace with hybrid homepage,2025-12-24T10:14:54
+https://bnosyisroel.org/contact-us/,/contact-us/,migrate evergreen/current content; omit outdated attachments,2026-04-28T10:45:23
+https://bnosyisroel.org/news-and-events/,/news-and-events/,migrate evergreen/current content; omit outdated attachments,2026-08-07T12:42:38
+https://bnosyisroel.org/donate/,/donate/,migrate evergreen/current content; omit outdated attachments,2026-03-09T13:27:40
+https://bnosyisroel.org/testimonial9/,/testimonial9/,retain testimonial (date exemption),2023-11-09T14:54:20
+https://bnosyisroel.org/testimonial8/,/testimonial8/,retain testimonial (date exemption),2023-11-09T14:54:20
+https://bnosyisroel.org/testimonial10/,/testimonial10/,retain testimonial (date exemption),2023-11-09T14:54:20
+https://bnosyisroel.org/testimonial6/,/testimonial6/,retain testimonial (date exemption),2023-11-09T14:52:22
+https://bnosyisroel.org/testimonial7/,/testimonial7/,retain testimonial (date exemption),2023-11-09T14:52:22
+https://bnosyisroel.org/testimonial5/,/testimonial5/,retain testimonial (date exemption),2023-11-09T14:51:37
+https://bnosyisroel.org/testimonial4/,/testimonial4/,retain testimonial (date exemption),2023-11-09T14:50:33
+https://bnosyisroel.org/testimonial3/,/testimonial3/,retain testimonial (date exemption),2023-11-09T14:49:37
+https://bnosyisroel.org/testimonial2/,/testimonial2/,retain testimonial (date exemption),2023-11-09T14:47:37
+https://bnosyisroel.org/testimonials/,/testimonials/,retain testimonial (date exemption),2023-11-09T14:41:34
+https://bnosyisroel.org/newsletter/,—,exclude: published before 2025-01-01,2023-11-09T13:43:53
+https://bnosyisroel.org/chesed/,—,exclude: published before 2025-01-01,2020-11-23T14:43:45
+https://bnosyisroel.org/3d-printer-mishkan/,—,exclude: published before 2025-01-01,2016-03-02T14:25:27

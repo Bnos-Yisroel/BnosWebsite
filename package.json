@@ -1,0 +1,17 @@
+{
+  "name": "bnos-yisroel-website",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "validate": "node scripts/validate.mjs",
+    "check": "npm test && npm run build && npm run validate",
+    "preview": "node scripts/serve.mjs",
+    "check:external": "python3 scripts/check-external.py",
+    "check:browser": "node scripts/browser-check.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
